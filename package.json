@@ -41,5 +41,13 @@
     "to-regex-range": "^5.0.1",
     "touch": "^3.1.1",
     "undefsafe": "^2.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatApaza/Tania123.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CatApaza/Tania123/issues"
+  },
+  "homepage": "https://github.com/CatApaza/Tania123#readme"
 }

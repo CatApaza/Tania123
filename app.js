@@ -269,5 +269,5 @@ async function ejecutarTodos() {
   await multiplesDeTres();
 }
 
-// Iniciar ejecución de todos los ejercicios
+// Iniciar ejecución de todos los ejerciciosss
 ejecutarTodos();

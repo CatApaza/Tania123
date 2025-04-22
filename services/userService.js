@@ -14,7 +14,7 @@ class UserService{
         return await User.findByIdAndUpdate({_id:id},data)
     }
     async delete(id){
-        return await User.findByIdAndOne({_id:id},data)
+        return await User.findByIdAndDelete(id);
     }
 
     async create(data){
